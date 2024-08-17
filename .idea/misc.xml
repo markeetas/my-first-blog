@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
     <option name="sdkName" value="Python 3.12 (djangogirls)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (djangogirls)" project-jdk-type="Python SDK" />
+=======
+    <option name="sdkName" value="Python 3.12" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (djangogirls)" project-jdk-type="Python SDK" />
+>>>>>>> 228ca5dcb62c0c38c0fb92aac92c574ca4b27a8b
   <component name="PyCharmProfessionalAdvertiser">
     <option name="shown" value="true" />
   </component>
